@@ -1,4 +1,4 @@
 <?php
 echo date("d M o");
 
-echo ' Ovchinnikov V O';
+echo '---Ovchinnikov V O';
