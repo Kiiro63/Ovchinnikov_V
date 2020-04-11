@@ -1,2 +1,2 @@
 <?php
-echo date("d, j, o");
+echo date("d, M, o");
